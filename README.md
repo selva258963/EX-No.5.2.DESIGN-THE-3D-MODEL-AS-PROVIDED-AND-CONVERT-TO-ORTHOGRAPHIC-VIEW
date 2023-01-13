@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![SELVA 5 2 20kb](https://user-images.githubusercontent.com/121961701/212300604-fd83e497-8658-427f-9ee7-7e1976f03d05.jpg)
 
 
 ## RESULT:
